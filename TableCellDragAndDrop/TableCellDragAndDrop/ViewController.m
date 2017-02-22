@@ -24,7 +24,7 @@
     _NameListTableView.delegate=self;
     _NameListTableView.dataSource=self;
     
-    NameArray=[NSMutableArray arrayWithObjects:@"anup", @"Priti", @"Priyanka", @"Sugumar", @"Priyan",@"Vijay", @"Prasoon", @"Abhinay",@"Jagdish",@"Ranjan", @"Bharath", nil];
+    NameArray=[NSMutableArray arrayWithObjects:@"Apple", @"Banana", @"Chiku", @"Mango", @"Grapes",@"kiwi", @"pineapple", @"orange",@"water melon",@"musk melon", @"pomegranate", nil];
                         
     
     
